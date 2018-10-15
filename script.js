@@ -8,6 +8,7 @@
 // @include      https://www.wanikani.com/
 // @include      https://www.wanikani.com/critical-items
 // @grant        none
+// @run-at       document-body
 // ==/UserScript==
 
 /*   Copyright 2018 Chikuhitsu
